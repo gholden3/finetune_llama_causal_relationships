@@ -1,0 +1,4 @@
+generate_synthetic_data/config.py
+**/__pycache__/
+*.csv
+*.jsonl
