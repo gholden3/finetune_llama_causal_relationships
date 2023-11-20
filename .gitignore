@@ -1,0 +1,4 @@
+.*
+/brettbbb
+*.csv
+!/.gitignore
