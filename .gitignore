@@ -2,3 +2,4 @@
 /brettbbb
 *.csv
 !/.gitignore
+*.txt
